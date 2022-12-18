@@ -1,0 +1,2 @@
+def declarePosCheck():
+    print("declarePosCheck!")
